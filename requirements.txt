@@ -1,5 +1,9 @@
 streamlit 
-langhchain_community
+langchain_community
 langchain_openai
 langchain_core
 python-dotenv
+langserve
+fastapi 
+uvicorn
+sse_starlette
